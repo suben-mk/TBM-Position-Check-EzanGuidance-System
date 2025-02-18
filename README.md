@@ -24,4 +24,24 @@ _**VBA Excel Program :**_ [Manual TBM Position Program Rev.04]()
     
     ![05-1](https://github.com/user-attachments/assets/e9232bd7-3497-4182-884b-4c478e9ea88e)
 
+    1.3 TBM Targets
+
+    ![06](https://github.com/user-attachments/assets/32a103f3-1d18-4469-89a9-0a7286867e27)
+
+    1.4 Articulation Jack Stroke
+
+    ![07](https://github.com/user-attachments/assets/8933d338-0974-4a3a-87a9-be0318fb0b39)
+
+ 2. ขั้นตอนคำนวณตำแหน่ง TBM\
+    2.1 TBM center axis การหาพิกัด center แต่ละ Section จะใช้วิธี Line of Best Fit (E,N) และ Best-fit circle (Y,Z) ของ the Kasa method
+
+    ![08](https://github.com/user-attachments/assets/b026abd3-b2c4-4ed1-a38e-64b27e7072bd)
+
+    2.2 TBM azimuth, TBM Pitching และ TBM Rolling\
+    2.3 TBM targets ซึ่งจะแปลงระบบพิกัดจากโครงการ (N,E,Z) เป็นระบบพิกัด TBM local coordinates (MX,MY,MZ) ที่ TBM azimuth, Pitching, Rolling = 0 องศา
+
+    ![09](https://github.com/user-attachments/assets/394b3acb-014f-4ceb-ab06-39af2f1c0fe2)
+
+
+
     
