@@ -46,8 +46,8 @@ _**VBA Excel Program :**_ [Manual TBM Position Program Rev.04]()
 
     ![10](https://github.com/user-attachments/assets/95bc72f9-410b-4834-a540-1cec2236f78e)
 
-    2.5 เตรียมข้อมูล Tunnel Aligment ทุกๆ Chainage = 50 cm. (Ch,N,E,Z)\
-    2.6 คำนวณตำแหน่ง TBM ที่ Tail, Articulation, Head ตามระยะ TBM Drawing และเทียบค่า Deviation จาก Tunnel Aligment
+    2.5 เตรียมข้อมูล Tunnel Alignment ทุกๆ Chainage = 50 cm. (Ch,N,E,Z)\
+    2.6 คำนวณตำแหน่ง TBM ที่ Tail, Articulation, Head ตามระยะ TBM Drawing และเทียบค่า Deviation จาก Tunnel Alignment
 
     ![11](https://github.com/user-attachments/assets/6ce12c14-e479-4d35-a4e1-ad01e6fcd628)
 
