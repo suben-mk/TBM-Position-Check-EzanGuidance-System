@@ -10,8 +10,8 @@ _Enzan Guidance System ระบบนำทางที่อยู่ใน TB
 
 ## Workflow
 _**Video Preview :**_ [Youtube](https://www.youtube.com/watch?v=RnKc08XiZW0)\
-_**VBA Script :**_ [ManualTBMPosition_R4.bas]()\
-_**VBA Excel Program :**_ [Manual TBM Position Program Rev.04]()
+_**VBA Script :**_ [ManualTBMPosition_R4.bas](https://github.com/suben-mk/TBM-Position-Check-EzanGuidance-System/blob/main/ManualTBMPosition_R4.bas)\
+_**VBA Excel Program :**_ [Manual TBM Position Program Rev.04](https://github.com/suben-mk/TBM-Position-Check-EzanGuidance-System/blob/main/Manual%20TBM%20Position%20Program%20Rev.04.xlsm)
 
  1. เก็บข้อมูลภาคสนาม\
     1.1 As-built TBM body (Wriggle Survey) 4 Sections
