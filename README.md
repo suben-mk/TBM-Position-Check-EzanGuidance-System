@@ -35,18 +35,24 @@ _**VBA Excel Program :**_ [Manual TBM Position Program Rev.04](https://github.co
  2. ขั้นตอนคำนวณตำแหน่ง TBM\
     2.1 TBM center axis (TBM rear axis และ TBM front axis) หาพิกัด center แต่ละ Section จะใช้วิธี Line of Best Fit (E,N) และ Best-fit circle (Y,Z) ของ the Kasa method
 
-    ![08](https://github.com/user-attachments/assets/b026abd3-b2c4-4ed1-a38e-64b27e7072bd)
+    ![08](https://github.com/user-attachments/assets/c58791f8-19a4-4b06-9480-7df186885c73)
 
-    2.2 TBM azimuth, TBM pitching และ TBM rolling\
+    2.2 TBM azimuth, TBM pitching และ TBM rolling
+
+    ![12](https://github.com/user-attachments/assets/8010fab9-acb0-4e0e-a067-3ad68074b80a)
+
     2.3 TBM targets ซึ่งจะแปลงระบบพิกัดจากโครงการ (N,E,Z) เป็นระบบพิกัด TBM local coordinates (MX,MY,MZ) ที่ TBM azimuth, pitching, rolling = 0 องศา
 
-    ![09](https://github.com/user-attachments/assets/394b3acb-014f-4ceb-ab06-39af2f1c0fe2)
+    ![09](https://github.com/user-attachments/assets/f577c03d-f9ad-48bd-9eef-158f9e666bb1)
 
     2.4 TBM parameter ระยะ design ต่างๆจาก TBM Drawing และระยะยืด Articulation jack stroke ที่วัดได้จะเป็นค่าตั้งต้น (Set 0) เทียบกับการวัดครั้งต่อไป ซึ่งจะคำนวณหามุมราบและมุมดิ่งระหว่างแกน TBM rear axis และ TBM front axis
 
     ![10](https://github.com/user-attachments/assets/95bc72f9-410b-4834-a540-1cec2236f78e)
 
-    2.5 เตรียมข้อมูล Tunnel Alignment ทุกๆ Chainage = 50 cm. (Ch,N,E,Z)\
+    2.5 เตรียมข้อมูล Tunnel Alignment ทุกๆ Chainage = 50 cm. (Ch,N,E,Z)
+
+    ![13](https://github.com/user-attachments/assets/7e57d19c-3a60-4344-b706-8e584b3881cf)
+
     2.6 คำนวณตำแหน่ง TBM (ข้อมูลสีน้ำเงิน) ที่ Tail, Articulation, Head ตามระยะ TBM Drawing และเทียบค่า Deviation จาก Tunnel Alignment
 
     ![11](https://github.com/user-attachments/assets/6ce12c14-e479-4d35-a4e1-ad01e6fcd628)
